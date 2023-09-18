@@ -2,5 +2,5 @@
 logs/
 
 modules/config.psd1
-
+libs/
 *.code-workspace
